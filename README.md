@@ -5,19 +5,19 @@ Algorithms:
 - build a tree applying the rules until it is possible:
   - ⊓<sup>+</sup>-rule:
 
-    ![](rules/rule1.png)
+    [](rules/rule1.png)
   - ⊓<sup>-</sup>-rule:
 
-    ![](rules/rule2.png)
+    [](rules/rule2.png)
   - ∃<sup>+</sup>-rule:
 
-    ![](rules/rule3.png)
+    [](rules/rule3.png)
   - ∃<sup>-</sup>-rule:
 
-    ![](rules/rule4.png)
+    [](rules/rule4.png)
 - if each branch of the tree contains a clash, the initial concept is inconsistent. Clash:
 
-  ![](rules/clash.png)
+  [](rules/clash.png)
 - otherwise, it is consistent
 
 Examples:
