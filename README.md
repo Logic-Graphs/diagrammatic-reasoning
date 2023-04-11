@@ -23,5 +23,8 @@
 
 ## Examples
 
-- inconsistent: [Person ⊓ ∀eats.Plant ⊓ ¬(Person ⊓ ∀eats.(Plant ⊔ Dairy))](inconsistent/inconsistent1.html) (A person who is vegan, but not a vegetarian, i.e. a person who eats only plants, but eats not only plants or dairy)
-- consistent: [Person ⊓ ∀eats.Plant ⊓ ∀eats.(Plant ⊔ Dairy)](consistent/consistent1.html) (A person who is vegan and vegeratian, i.e. a person who eats only plants and only plants or dairy)
+- inconsistent: a person who is vegan, but not a vegetarian, i.e. a person who eats only plants, but eats not only plants or dairy
+<p align="center"><a href="inconsistent/inconsistent1.html">Person ⊓ ∀eats.Plant ⊓ ¬(Person ⊓ ∀eats.(Plant ⊔ Dairy))</a></p>
+
+- consistent: a person who is vegan and vegeratian, i.e. a person who eats only plants and only plants or dairy
+<p align="center"><a href="consistent/consistent1.html">Person ⊓ ∀eats.Plant ⊓ ∀eats.(Plant ⊔ Dairy)</a></p>
