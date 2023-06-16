@@ -28,3 +28,21 @@
 
 - consistent: a person who is vegan and vegeratian, i.e. a person who eats only plants and only plants or dairy
 <p align="center"><a href="consistent/consistent1.html">Person ⊓ ∀eats.Plant ⊓ ∀eats.(Plant ⊔ Dairy)</a></p>
+
+## Comparison
+- Logic Graphs
+<img src="comparison/LG.png"  width="50%" height="50%">
+
+- Conceptual Diagrams
+<img src="comparison/CD.png"  width="50%" height="50%">
+
+- Relation Graphs
+<img src="comparison/RG.png"  width="25%" height="25%">
+
+We compare the complexity of visual syntaxes regarding their graph-theoretic terms.
+
+|    | N of nodes | N of edges | Depth |
+| -- | ---------- | ---------- | ----- |
+| LG | **_10_** | **_2_** | **_2_** |
+| CD | 11 | **_2_** | 3 |
+| RG | 13 | 5 | 3 |
