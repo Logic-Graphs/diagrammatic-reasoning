@@ -33,7 +33,7 @@
 - Logic Graphs
 
 <img src="comparison/LG.png"  width="50%" height="50%">
-- Conceptual Diagrams
+- Concept Diagrams
 
 <img src="comparison/CD.png"  width="50%" height="50%">
 - Relation Graphs
