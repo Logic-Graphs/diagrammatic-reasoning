@@ -31,12 +31,13 @@
 
 ## Comparison
 - Logic Graphs
+
 <img src="comparison/LG.png"  width="50%" height="50%">
-
 - Conceptual Diagrams
-<img src="comparison/CD.png"  width="50%" height="50%">
 
+<img src="comparison/CD.png"  width="50%" height="50%">
 - Relation Graphs
+
 <img src="comparison/RG.png"  width="25%" height="25%">
 
 We compare the complexity of visual syntaxes regarding their graph-theoretic terms.
