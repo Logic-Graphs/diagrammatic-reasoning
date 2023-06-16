@@ -44,6 +44,6 @@ We compare the complexity of visual syntaxes regarding their graph-theoretic ter
 
 |    | N of nodes | N of edges | Depth |
 | -- | ---------- | ---------- | ----- |
-| LG | **_10_** | **_2_** | **_2_** |
-| CD | 11 | **_2_** | 3 |
-| RG | 13 | 5 | 3 |
+| LG | **_10_** | **_2_** | **_3_** |
+| CD | 11 | **_2_** | **_3_** |
+| RG | 13 | 5 | 4 |
